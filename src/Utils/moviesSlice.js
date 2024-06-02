@@ -20,7 +20,6 @@ const moviesSlice = createSlice({
 
             state.nowPlayingMovies = action.payload;
 
-
         },
 
         addTrailerVideo : (state , action) =>{
