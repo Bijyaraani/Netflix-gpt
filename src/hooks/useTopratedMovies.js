@@ -18,10 +18,8 @@ const useTopratedMovies = () => {
     );
 
     const json = await data.json();
-    console.log(json , "toprated 1")
 
     dispatch(addnowTopRatedMovies(json.results));
-    console.log(json , "toprated 2")
 
   };
 

@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.env
+openAI.js
+constants.js
+/Users/anandkumar/Desktop/netflix-gpt/src/Utils/constants.js
+
