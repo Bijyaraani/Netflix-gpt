@@ -8,7 +8,7 @@ const GPTsearch =()=>{
 
 return (
 <div>
-<div className="absolute -z-10">
+<div className="fixed -z-10">
         <img
           src={Netflix_page}
           alt="logo"
